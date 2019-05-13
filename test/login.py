@@ -1,4 +1,2 @@
-
-hello
-word
-
+nihao
+datou
